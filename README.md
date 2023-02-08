@@ -1,2 +1,3 @@
 # cs50
-Learning basic progamming
+
+Hello, I'm Qing Rong. Trying my hands at some basic coding.
