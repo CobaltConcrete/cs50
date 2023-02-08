@@ -1,4 +1,4 @@
-// check what kind of credit card (AMEX/MASRERCARD/VISA) given a credit card number
+// check what kind of credit card (AMEX/MASTERCARD/VISA) given a credit card number
 
 #include <cs50.h>
 #include <stdio.h>
